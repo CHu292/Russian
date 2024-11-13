@@ -1,5 +1,5 @@
 
-## 2. Когда переходной процесс считается завершенным (теоретически и практически)?
+# 2. Когда переходной процесс считается завершенным (теоретически и практически)?
 
 
 ### Теоретическое завершение переходного процесса
@@ -43,3 +43,47 @@ _Sau thời gian bằng năm lần hằng số thời gian ( $$t = 5\tau$$)), qu
 Các tài liệu về kỹ thuật mạch điện, chẳng hạn như giáo trình của Milenina và các hướng dẫn thực hành thí nghiệm, chứa các phương pháp phân tích để xác định quá trình quá độ kết thúc trong các mạch khác nhau. Trong các bài thực hành, khi sử dụng dao động ký để phân tích quá trình quá độ, người ta thường cho rằng quá trình quá độ đã kết thúc khi đồ thị dao động của tín hiệu ổn định ở mức giá trị ổn định với sai lệch nhỏ trong khoảng 1–2% so với giá trị đó.
 
 Khi mô phỏng và tính toán quá trình quá độ trong các thí nghiệm, quy tắc $$5\tau$$ cũng thường được áp dụng vì cách tiếp cận này đảm bảo đạt mức ổn định phù hợp cho các phép tính kỹ thuật và phân tích.
+
+--- 
+
+# Явление сверхтоков и перенапряжений в переходных процессах: объяснение, формулы и графики
+Hiện tượng dòng điện quá mức và quá điện áp trong các quá trình quá độ: giải thích, công thức và đồ thị
+
+
+#### 1. Суть явления сверхтоков
+ Bản chất của hiện tượng dòng điện quá mức
+
+
+**Сверхтоки** возникают в цепях, содержащих индуктивные или ёмкостные элементы, при резком изменении входного сигнала (например, включении или выключении напряжения). Индуктивные элементы, такие как катушки, противодействуют изменению тока и могут приводить к резким всплескам тока при коммутации. Для индуктивного элемента с сопротивлением $$R$$ и индуктивностью $$L$$ это можно описать следующим дифференциальным уравнением:
+
+_**Dòng điện quá mức** xuất hiện trong các mạch chứa các phần tử cảm kháng hoặc điện dung khi có sự thay đổi đột ngột của tín hiệu đầu vào (chẳng hạn, khi bật hoặc tắt điện áp). Các phần tử cảm kháng, chẳng hạn như cuộn cảm, chống lại sự thay đổi dòng điện và có thể dẫn đến sự tăng vọt của dòng điện khi đóng ngắt. Đối với phần tử cảm kháng có điện trở $$R$$ và độ tự cảm $$L$$, hiện tượng này có thể được mô tả bằng phương trình vi phân:_
+
+$$
+\frac{dI}{dt} + \frac{R}{L} I = \frac{V}{L}
+$$
+
+где $$V$$ — напряжение источника. В цепи RL ток $$I(t)$$ растет экспоненциально с постоянной времени $$\tau = \frac{L}{R}$$, и максимальное значение сверхтока может быть достигнуто на этапе заряда или разряда индуктивного элемента.
+
+_trong đó $$V$$ là điện áp của nguồn. Trong mạch RL, dòng điện $$I(t)$$ tăng theo hàm mũ với hằng số thời gian $$\tau = \frac{L}{R}$$, và giá trị cực đại của dòng điện quá mức có thể đạt được ở giai đoạn nạp hoặc xả của phần tử cảm kháng._
+
+#### 2. Суть явления перенапряжений
+Bản chất của hiện tượng quá điện áp
+
+
+**Перенапряжения** возникают чаще всего в цепях с ёмкостями (конденсаторами) и индуктивностями (катушками) в момент коммутации. В этих случаях реактивные элементы не позволяют мгновенно изменять ток или напряжение, что вызывает кратковременные всплески. В цепях RLC перенапряжения могут быть особенно значительными, если процесс приобретает колебательный характер, где напряжение на конденсаторе $$u_C(t)$$ определяется решением колебательного уравнения:
+
+_**Quá điện áp** xuất hiện chủ yếu trong các mạch có điện dung (tụ điện) và cảm kháng (cuộn cảm) tại thời điểm đóng ngắt. Trong các trường hợp này, các phần tử phản kháng không cho phép thay đổi tức thì dòng điện hoặc điện áp, dẫn đến các xung tăng vọt trong thời gian ngắn. Trong các mạch RLC, hiện tượng quá điện áp có thể đặc biệt lớn nếu quá trình này trở thành dao động, với điện áp trên tụ $$u_C(t)$$ được xác định bằng nghiệm của phương trình dao động_ 
+
+$$
+u_C(t) = U_{\text{уст}} \left(1 - e^{-\alpha t} \cos(\omega_d t + \phi)\right)
+$$
+
+где $$\alpha = \frac{R}{2L}$$ — коэффициент затухания, а $$\omega_d = \sqrt{\frac{1}{LC} - \left(\frac{R}{2L}\right)^2}$$ — частота колебаний.
+
+_trong đó $$\alpha = \frac{R}{2L}$$ là hệ số suy giảm và $$\omega_d = \sqrt{\frac{1}{LC} - \left(\frac{R}{2L}\right)^2}$$ là tần số dao động._
+
+#### 3. Графики и схемы
+ Đồ thị và sơ đồ
+
+
+
