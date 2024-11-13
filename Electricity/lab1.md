@@ -21,12 +21,11 @@ Kết thúc thực tế của quá trình quá độ
 _Về mặt **thực tế**, quá trình quá độ được coi là kết thúc khi các thay đổi về thông số của hệ thống trở nên nhỏ đến mức có thể bỏ qua trong giới hạn sai số cho phép của phép đo hoặc tính toán._
 
 В большинстве случаев, для **цепей первого порядка** (например, RC и RL-цепей) используется правило $$5\tau$$ (пять постоянных времени):
-- $$\tau = RC$$ для RC-цепей,
-- $$\tau = \frac{L}{R}$$ для RL-цепей.
 
 _Trong hầu hết các trường hợp, đối với **mạch bậc nhất** (chẳng hạn như mạch RC và RL), người ta thường sử dụng quy tắc $$5\tau$$ (năm hằng số thời gian):_
-- $$\tau = RC$$ cho mạch RC,
-- $$\tau = \frac{L}{R}$$ cho mạch RL.
+
+- $$\tau = RC$$ для RC-цепей,
+- $$\tau = \frac{L}{R}$$ для RL-цепей.
 
 
 Через время, равное пяти постоянным времени ($$t = 5\tau$$), переходной процесс достигает более 99% от своего окончательного значения, что обычно считается достаточным приближением к установившемуся состоянию.
