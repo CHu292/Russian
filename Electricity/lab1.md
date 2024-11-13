@@ -105,13 +105,13 @@ trong đó $$\alpha = \frac{R}{2L}$$ là hệ số suy giảm và $$\omega_d = \
 - **Điện tích**: $$Q = CU$$
 - **Dòng điện**: $$i = C \frac{du}{dt}$$
 - **Dung kháng**: $$X_C = -\frac{j}{\omega C}$$, và **Trở kháng**: $$Z = -j X_C$$
-- Đối với tụ điện, dòng điện đi trước điện áp một góc pha \(\varphi = 90^\circ\). Trên đồ thị, chúng ta có thể thấy dòng điện đạt cực đại trước khi điện áp đạt cực đại.
+- Đối với tụ điện, dòng điện đi trước điện áp một góc pha $$\varphi = 90^\circ$$. Trên đồ thị, chúng ta có thể thấy dòng điện đạt cực đại trước khi điện áp đạt cực đại.
 
 #### Cuộn cảm:
 - **Năng lượng từ trường**: $$Q = \frac{LI^2}{2}$$
 - **Điện áp**: $$u = L \frac{di}{dt}$$
 - **Cảm kháng**: $$X_L = j \omega L$$, và **Trở kháng**: $$Z = j X_L$$
-- Đối với cuộn cảm, điện áp đi trước dòng điện một góc pha \(\varphi = 90^\circ\). Trên đồ thị, điện áp đạt cực đại trước khi dòng điện đạt cực đại.
+- Đối với cuộn cảm, điện áp đi trước dòng điện một góc pha $$\varphi = 90^\circ$$. Trên đồ thị, điện áp đạt cực đại trước khi dòng điện đạt cực đại.
 
 ### 2. Các phần tử phản kháng và luật chuyển mạch
 
