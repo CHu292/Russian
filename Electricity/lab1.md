@@ -84,5 +84,54 @@ trong đó $$\alpha = \frac{R}{2L}$$ là hệ số suy giảm và $$\omega_d = \
 #### 3. Графики и схемы
  Đồ thị và sơ đồ
 
+<p align="center">
+  <img src="https://github.com/CHu292/Russian/blob/main/Electricity/img/3.1.png"  width="1000">
+</p>
+
+<p align="center">
+  <img src="https://github.com/CHu292/Russian/blob/main/Electricity/img/3.2.png"  width="1000">
+</p>
 
 
+
+### 1. Các thành phần của mạch điện và sơ đồ dòng điện, điện áp
+
+#### Điện trở:
+- **Công thức dòng điện**: $$i = \frac{U}{R}$$
+- **Trở kháng**: $$Z = R$$
+- Trong mạch điện với điện trở $$R$$, dòng điện và điện áp cùng pha, nghĩa là không có sự trễ pha giữa chúng. Trên đồ thị, dòng điện và điện áp có cùng tần số và đạt cực đại hoặc cực tiểu tại cùng một thời điểm.
+
+#### Tụ điện:
+- **Điện tích**: $$Q = CU$$
+- **Dòng điện**: $$i = C \frac{du}{dt}$$
+- **Dung kháng**: $$X_C = -\frac{j}{\omega C}$$, và **Trở kháng**: $$Z = -j X_C$$
+- Đối với tụ điện, dòng điện đi trước điện áp một góc pha \(\varphi = 90^\circ\). Trên đồ thị, chúng ta có thể thấy dòng điện đạt cực đại trước khi điện áp đạt cực đại.
+
+#### Cuộn cảm:
+- **Năng lượng từ trường**: $$Q = \frac{LI^2}{2}$$
+- **Điện áp**: $$u = L \frac{di}{dt}$$
+- **Cảm kháng**: $$X_L = j \omega L$$, và **Trở kháng**: $$Z = j X_L$$
+- Đối với cuộn cảm, điện áp đi trước dòng điện một góc pha \(\varphi = 90^\circ\). Trên đồ thị, điện áp đạt cực đại trước khi dòng điện đạt cực đại.
+
+### 2. Các phần tử phản kháng và luật chuyển mạch
+
+#### Mạch RC (Hình bên trái - Hình 2)
+- **Phương trình điện áp trên tụ**:
+  $$
+  u_C(t) = U_0 e^{-t/\tau} + E_з (1 - e^{-t/\tau})
+  $$
+  trong đó $$\tau = R_Э C$$ là hằng số thời gian.
+- Trên đồ thị, chúng ta thấy rằng điện áp trên tụ $$U_C$$ tăng dần và tiến đến giá trị ổn định, trong khi dòng điện $$I$$ giảm dần theo thời gian sau khi mạch được kết nối với nguồn điện áp $$E_з$$.
+- Sơ đồ mạch cho thấy một nguồn điện $$E_з$$ mắc nối tiếp với điện trở $$R_Э$$ và tụ điện $$C$$.
+
+#### Mạch RL (Hình bên phải - Hình 3)
+- **Phương trình dòng điện qua cuộn cảm**:
+  $$
+  I_L(t) = I_0 e^{-t/\tau} + \left(1 - e^{-t/\tau}\right) E_з
+  $$
+  trong đó $$\tau = \frac{L}{R_Э}$$ là hằng số thời gian.
+- Trên đồ thị, chúng ta thấy rằng dòng điện qua cuộn cảm $$I_L$$ tăng dần và tiến đến giá trị ổn định, trong khi điện áp trên cuộn cảm $$U_L$$ giảm dần theo thời gian sau khi mạch được kết nối với nguồn điện áp $$E_з$$.
+- Sơ đồ mạch cho thấy một nguồn dòng $$J_э$$ mắc nối tiếp với một cuộn cảm $$L$$ và một điện trở.
+
+### Ý nghĩa đồ thị và công thức
+Các công thức và đồ thị này mô tả quá trình quá độ trong mạch RC và RL khi có sự thay đổi đột ngột (như kết nối nguồn điện áp). Đồ thị cho thấy cách dòng điện và điện áp thay đổi theo thời gian trong quá trình quá độ cho đến khi đạt được trạng thái ổn định.
