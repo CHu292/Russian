@@ -487,3 +487,414 @@ Trả lời bài tập:
 
 5. Публикация будет интересна студентам отделений и факультетов журналистики, филологам.
 (Dịch: Ấn phẩm này sẽ thú vị đối với sinh viên các khoa báo chí và ngôn ngữ học.)
+
+
+---
+Dưới đây là nội dung từ hình ảnh:
+
+
+---
+
+Е.
+
+Данная монография (1) вопросам становления и развития политической системы в России. Авторы (2) такие проблемы, как внешняя политика нашего государства в различные эпохи, (3) дипломатических отношений с другими странами. Также в монографии подробно (4) проблемы межкультурного и межэтнического взаимодействия в условиях глобализации.
+
+Слова для справок: посвящён(а), рассматриваться, развитие, затрагивать.
+
+
+---
+
+A.
+
+В основе словаря (1) картотека, которая составляется автором с начала 90-х годов XX века. Автор (2) опыт составителей выходивших ранее синонимических словарей.
+В словаре (3) более 13 000 синонимических рядов.
+Словарь (4) писателям, журналистам, переводчикам, филологам широкого профиля, преподавателям, редакторам, студентам и школьникам старших классов, а также широкому кругу читателей, стремящихся грамотно говорить и образно, ярко и точно (5) свои мысли.
+
+Слова для справок: адресован, выражать, содержаться, обобщать, лежать.
+
+
+---
+
+Б.
+
+Учебник (1) для учащихся 8–9 классов общеобразовательных учреждений. Он (2) в соответствии с примерной программой дисциплины «Искусство», с соблюдением требований, заложенных в Стандартах второго поколения.
+Учебник интегрированного типа, (3) учащихся с различными видами искусства, с функциями, которые они выполняют в жизни человека и общества. Он (4) школьникам приобщиться к художественно-творческой деятельности на уровне компетентного читателя, зрителя, слушателя.
+
+Слова для справок: написан/создан, знакомить, позволять, предназначен.
+
+
+---
+
+Dịch sang tiếng Việt:
+
+Е.
+
+Chuyên khảo này (1) về các vấn đề hình thành và phát triển hệ thống chính trị ở Nga. Các tác giả (2) những vấn đề như chính sách đối ngoại của đất nước ta trong các thời kỳ khác nhau, (3) quan hệ ngoại giao với các quốc gia khác. Ngoài ra, trong chuyên khảo này còn chi tiết (4) các vấn đề về tương tác liên văn hóa và liên sắc tộc trong điều kiện toàn cầu hóa.
+
+Từ gợi ý: được dành riêng, được xem xét, sự phát triển, được đề cập.
+
+
+---
+
+A.
+
+Nền tảng của từ điển là (1) một tập hồ sơ được tác giả biên soạn từ đầu những năm 90 của thế kỷ XX. Tác giả (2) kinh nghiệm của những người biên soạn các từ điển đồng nghĩa trước đây.
+Trong từ điển (3) hơn 13.000 hàng đồng nghĩa.
+Từ điển (4) dành cho các nhà văn, nhà báo, biên dịch viên, nhà ngôn ngữ học có trình độ cao, giáo viên, biên tập viên, sinh viên và học sinh trung học, cũng như nhiều độc giả muốn nói đúng ngữ pháp và diễn đạt ý tưởng một cách hình tượng, rõ ràng và chính xác.
+
+Từ gợi ý: được gửi đến, biểu đạt, chứa, tổng hợp, nằm.
+
+
+---
+
+Б.
+
+Sách giáo khoa này (1) dành cho học sinh lớp 8–9 tại các trường phổ thông. Nó (2) phù hợp với chương trình môn học “Nghệ thuật” đã được tiêu chuẩn hóa ở thế hệ thứ hai.
+Sách giáo khoa mang tính tích hợp, (3) học sinh với các loại hình nghệ thuật khác nhau, các chức năng mà chúng thực hiện trong đời sống con người và xã hội. Nó (4) giúp học sinh tham gia vào các hoạt động sáng tạo nghệ thuật ở mức độ của một người đọc, người xem, và người nghe có năng lực.
+
+Từ gợi ý: được viết/được tạo ra, làm quen, cho phép, dành cho.
+
+
+---
+
+Trả lời bài tập:
+
+Е.
+
+1. Данная монография посвящена вопросам становления и развития политической системы в России.
+(Dịch: Chuyên khảo này được dành riêng để nghiên cứu các vấn đề hình thành và phát triển hệ thống chính trị ở Nga.)
+
+
+2. Авторы затрагивают такие проблемы, как внешняя политика нашего государства в различные эпохи.
+(Dịch: Các tác giả đề cập đến các vấn đề như chính sách đối ngoại của đất nước ta trong các thời kỳ khác nhau.)
+
+
+3. рассматриваются дипломатические отношения с другими странами.
+(Dịch: Được xem xét các mối quan hệ ngoại giao với các quốc gia khác.)
+
+
+4. Также в монографии подробно анализируются проблемы межкультурного и межэтнического взаимодействия в условиях глобализации.
+(Dịch: Ngoài ra, các vấn đề về tương tác liên văn hóa và liên sắc tộc trong điều kiện toàn cầu hóa được phân tích chi tiết.)
+
+
+
+
+---
+
+A.
+
+1. В основе словаря лежит картотека, которая составляется автором с начала 90-х годов XX века.
+(Dịch: Nền tảng của từ điển là một tập hồ sơ được tác giả biên soạn từ đầu những năm 90 của thế kỷ XX.)
+
+
+2. Автор обобщает опыт составителей выходивших ранее синонимических словарей.
+(Dịch: Tác giả tổng hợp kinh nghiệm của những người biên soạn các từ điển đồng nghĩa trước đây.)
+
+
+3. В словаре содержится более 13 000 синонимических рядов.
+(Dịch: Trong từ điển chứa hơn 13.000 hàng đồng nghĩa.)
+
+
+4. Словарь адресован писателям, журналистам, переводчикам, филологам широкого профиля.
+(Dịch: Từ điển dành cho các nhà văn, nhà báo, biên dịch viên, nhà ngôn ngữ học có trình độ cao.)
+
+
+5. стремящихся грамотно говорить и образно, ярко и точно выражать свои мысли.
+(Dịch: muốn nói đúng ngữ pháp và diễn đạt ý tưởng một cách hình tượng, rõ ràng và chính xác.)
+
+
+
+
+---
+
+Б.
+
+1. Учебник предназначен для учащихся 8–9 классов общеобразовательных учреждений.
+(Dịch: Sách giáo khoa này dành cho học sinh lớp 8–9 tại các trường phổ thông.)
+
+
+2. Он написан в соответствии с примерной программой дисциплины «Искусство».
+(Dịch: Nó được viết phù hợp với chương trình môn học “Nghệ thuật”.)
+
+
+3. знакомит учащихся с различными видами искусства.
+(Dịch: Giới thiệu học sinh với các loại hình nghệ thuật khác nhau.)
+
+
+4. Он позволяет школьникам приобщиться к художественно-творческой деятельности.
+(Dịch: Nó cho phép học sinh tham gia vào các hoạt động sáng tạo nghệ thuật.)
+
+
+
+Dưới đây là nội dung từ hình ảnh:
+
+
+---
+
+Е.
+
+Данная монография (1) вопросам становления и развития политической системы в России. Авторы (2) такие проблемы, как внешняя политика нашего государства в различные эпохи, (3) дипломатических отношений с другими странами. Также в монографии подробно (4) проблемы межкультурного и межэтнического взаимодействия в условиях глобализации.
+
+Слова для справок: посвящён(а), рассматриваться, развитие, затрагивать.
+
+
+---
+
+A.
+
+В основе словаря (1) картотека, которая составляется автором с начала 90-х годов XX века. Автор (2) опыт составителей выходивших ранее синонимических словарей.
+В словаре (3) более 13 000 синонимических рядов.
+Словарь (4) писателям, журналистам, переводчикам, филологам широкого профиля, преподавателям, редакторам, студентам и школьникам старших классов, а также широкому кругу читателей, стремящихся грамотно говорить и образно, ярко и точно (5) свои мысли.
+
+Слова для справок: адресован, выражать, содержаться, обобщать, лежать.
+
+
+---
+
+Б.
+
+Учебник (1) для учащихся 8–9 классов общеобразовательных учреждений. Он (2) в соответствии с примерной программой дисциплины «Искусство», с соблюдением требований, заложенных в Стандартах второго поколения.
+Учебник интегрированного типа, (3) учащихся с различными видами искусства, с функциями, которые они выполняют в жизни человека и общества. Он (4) школьникам приобщиться к художественно-творческой деятельности на уровне компетентного читателя, зрителя, слушателя.
+
+Слова для справок: написан/создан, знакомить, позволять, предназначен.
+
+
+---
+
+Dịch sang tiếng Việt:
+
+Е.
+
+Chuyên khảo này (1) về các vấn đề hình thành và phát triển hệ thống chính trị ở Nga. Các tác giả (2) những vấn đề như chính sách đối ngoại của đất nước ta trong các thời kỳ khác nhau, (3) quan hệ ngoại giao với các quốc gia khác. Ngoài ra, trong chuyên khảo này còn chi tiết (4) các vấn đề về tương tác liên văn hóa và liên sắc tộc trong điều kiện toàn cầu hóa.
+
+Từ gợi ý: được dành riêng, được xem xét, sự phát triển, được đề cập.
+
+
+---
+
+A.
+
+Nền tảng của từ điển là (1) một tập hồ sơ được tác giả biên soạn từ đầu những năm 90 của thế kỷ XX. Tác giả (2) kinh nghiệm của những người biên soạn các từ điển đồng nghĩa trước đây.
+Trong từ điển (3) hơn 13.000 hàng đồng nghĩa.
+Từ điển (4) dành cho các nhà văn, nhà báo, biên dịch viên, nhà ngôn ngữ học có trình độ cao, giáo viên, biên tập viên, sinh viên và học sinh trung học, cũng như nhiều độc giả muốn nói đúng ngữ pháp và diễn đạt ý tưởng một cách hình tượng, rõ ràng và chính xác.
+
+Từ gợi ý: được gửi đến, biểu đạt, chứa, tổng hợp, nằm.
+
+
+---
+
+Б.
+
+Sách giáo khoa này (1) dành cho học sinh lớp 8–9 tại các trường phổ thông. Nó (2) phù hợp với chương trình môn học “Nghệ thuật” đã được tiêu chuẩn hóa ở thế hệ thứ hai.
+Sách giáo khoa mang tính tích hợp, (3) học sinh với các loại hình nghệ thuật khác nhau, các chức năng mà chúng thực hiện trong đời sống con người và xã hội. Nó (4) giúp học sinh tham gia vào các hoạt động sáng tạo nghệ thuật ở mức độ của một người đọc, người xem, và người nghe có năng lực.
+
+Từ gợi ý: được viết/được tạo ra, làm quen, cho phép, dành cho.
+
+
+---
+
+Trả lời bài tập:
+
+Е.
+
+1. Данная монография посвящена вопросам становления и развития политической системы в России.
+(Dịch: Chuyên khảo này được dành riêng để nghiên cứu các vấn đề hình thành và phát triển hệ thống chính trị ở Nga.)
+
+
+2. Авторы затрагивают такие проблемы, как внешняя политика нашего государства в различные эпохи.
+(Dịch: Các tác giả đề cập đến các vấn đề như chính sách đối ngoại của đất nước ta trong các thời kỳ khác nhau.)
+
+
+3. рассматриваются дипломатические отношения с другими странами.
+(Dịch: Được xem xét các mối quan hệ ngoại giao với các quốc gia khác.)
+
+
+4. Также в монографии подробно анализируются проблемы межкультурного и межэтнического взаимодействия в условиях глобализации.
+(Dịch: Ngoài ra, các vấn đề về tương tác liên văn hóa và liên sắc tộc trong điều kiện toàn cầu hóa được phân tích chi tiết.)
+
+
+
+
+---
+
+A.
+
+1. В основе словаря лежит картотека, которая составляется автором с начала 90-х годов XX века.
+(Dịch: Nền tảng của từ điển là một tập hồ sơ được tác giả biên soạn từ đầu những năm 90 của thế kỷ XX.)
+
+
+2. Автор обобщает опыт составителей выходивших ранее синонимических словарей.
+(Dịch: Tác giả tổng hợp kinh nghiệm của những người biên soạn các từ điển đồng nghĩa trước đây.)
+
+
+3. В словаре содержится более 13 000 синонимических рядов.
+(Dịch: Trong từ điển chứa hơn 13.000 hàng đồng nghĩa.)
+
+
+4. Словарь адресован писателям, журналистам, переводчикам, филологам широкого профиля.
+(Dịch: Từ điển dành cho các nhà văn, nhà báo, biên dịch viên, nhà ngôn ngữ học có trình độ cao.)
+
+
+5. стремящихся грамотно говорить и образно, ярко и точно выражать свои мысли.
+(Dịch: muốn nói đúng ngữ pháp và diễn đạt ý tưởng một cách hình tượng, rõ ràng và chính xác.)
+
+
+
+
+---
+
+Б.
+
+1. Учебник предназначен для учащихся 8–9 классов общеобразовательных учреждений.
+(Dịch: Sách giáo khoa này dành cho học sinh lớp 8–9 tại các trường phổ thông.)
+
+
+2. Он написан в соответствии с примерной программой дисциплины «Искусство».
+(Dịch: Nó được viết phù hợp với chương trình môn học “Nghệ thuật”.)
+
+
+3. знакомит учащихся с различными видами искусства.
+(Dịch: Giới thiệu học sinh với các loại hình nghệ thuật khác nhau.)
+
+
+4. Он позволяет школьникам приобщиться к художественно-творческой деятельности.
+(Dịch: Nó cho phép học sinh tham gia vào các hoạt động sáng tạo nghệ thuật.)
+
+Dưới đây là nội dung từ hình ảnh:
+
+
+---
+
+Е.
+
+Данная монография (1) вопросам становления и развития политической системы в России. Авторы (2) такие проблемы, как внешняя политика нашего государства в различные эпохи, (3) дипломатических отношений с другими странами. Также в монографии подробно (4) проблемы межкультурного и межэтнического взаимодействия в условиях глобализации.
+
+Слова для справок: посвящён(а), рассматриваться, развитие, затрагивать.
+
+
+---
+
+A.
+
+В основе словаря (1) картотека, которая составляется автором с начала 90-х годов XX века. Автор (2) опыт составителей выходивших ранее синонимических словарей.
+В словаре (3) более 13 000 синонимических рядов.
+Словарь (4) писателям, журналистам, переводчикам, филологам широкого профиля, преподавателям, редакторам, студентам и школьникам старших классов, а также широкому кругу читателей, стремящихся грамотно говорить и образно, ярко и точно (5) свои мысли.
+
+Слова для справок: адресован, выражать, содержаться, обобщать, лежать.
+
+
+---
+
+Б.
+
+Учебник (1) для учащихся 8–9 классов общеобразовательных учреждений. Он (2) в соответствии с примерной программой дисциплины «Искусство», с соблюдением требований, заложенных в Стандартах второго поколения.
+Учебник интегрированного типа, (3) учащихся с различными видами искусства, с функциями, которые они выполняют в жизни человека и общества. Он (4) школьникам приобщиться к художественно-творческой деятельности на уровне компетентного читателя, зрителя, слушателя.
+
+Слова для справок: написан/создан, знакомить, позволять, предназначен.
+
+
+---
+
+Dịch sang tiếng Việt:
+
+Е.
+
+Chuyên khảo này (1) về các vấn đề hình thành và phát triển hệ thống chính trị ở Nga. Các tác giả (2) những vấn đề như chính sách đối ngoại của đất nước ta trong các thời kỳ khác nhau, (3) quan hệ ngoại giao với các quốc gia khác. Ngoài ra, trong chuyên khảo này còn chi tiết (4) các vấn đề về tương tác liên văn hóa và liên sắc tộc trong điều kiện toàn cầu hóa.
+
+Từ gợi ý: được dành riêng, được xem xét, sự phát triển, được đề cập.
+
+
+---
+
+A.
+
+Nền tảng của từ điển là (1) một tập hồ sơ được tác giả biên soạn từ đầu những năm 90 của thế kỷ XX. Tác giả (2) kinh nghiệm của những người biên soạn các từ điển đồng nghĩa trước đây.
+Trong từ điển (3) hơn 13.000 hàng đồng nghĩa.
+Từ điển (4) dành cho các nhà văn, nhà báo, biên dịch viên, nhà ngôn ngữ học có trình độ cao, giáo viên, biên tập viên, sinh viên và học sinh trung học, cũng như nhiều độc giả muốn nói đúng ngữ pháp và diễn đạt ý tưởng một cách hình tượng, rõ ràng và chính xác.
+
+Từ gợi ý: được gửi đến, biểu đạt, chứa, tổng hợp, nằm.
+
+
+---
+
+Б.
+
+Sách giáo khoa này (1) dành cho học sinh lớp 8–9 tại các trường phổ thông. Nó (2) phù hợp với chương trình môn học “Nghệ thuật” đã được tiêu chuẩn hóa ở thế hệ thứ hai.
+Sách giáo khoa mang tính tích hợp, (3) học sinh với các loại hình nghệ thuật khác nhau, các chức năng mà chúng thực hiện trong đời sống con người và xã hội. Nó (4) giúp học sinh tham gia vào các hoạt động sáng tạo nghệ thuật ở mức độ của một người đọc, người xem, và người nghe có năng lực.
+
+Từ gợi ý: được viết/được tạo ra, làm quen, cho phép, dành cho.
+
+
+---
+
+Trả lời bài tập:
+
+Е.
+
+1. Данная монография посвящена вопросам становления и развития политической системы в России.
+(Dịch: Chuyên khảo này được dành riêng để nghiên cứu các vấn đề hình thành và phát triển hệ thống chính trị ở Nga.)
+
+
+2. Авторы затрагивают такие проблемы, как внешняя политика нашего государства в различные эпохи.
+(Dịch: Các tác giả đề cập đến các vấn đề như chính sách đối ngoại của đất nước ta trong các thời kỳ khác nhau.)
+
+
+3. рассматриваются дипломатические отношения с другими странами.
+(Dịch: Được xem xét các mối quan hệ ngoại giao với các quốc gia khác.)
+
+
+4. Также в монографии подробно анализируются проблемы межкультурного и межэтнического взаимодействия в условиях глобализации.
+(Dịch: Ngoài ra, các vấn đề về tương tác liên văn hóa và liên sắc tộc trong điều kiện toàn cầu hóa được phân tích chi tiết.)
+
+
+
+
+---
+
+A.
+
+1. В основе словаря лежит картотека, которая составляется автором с начала 90-х годов XX века.
+(Dịch: Nền tảng của từ điển là một tập hồ sơ được tác giả biên soạn từ đầu những năm 90 của thế kỷ XX.)
+
+
+2. Автор обобщает опыт составителей выходивших ранее синонимических словарей.
+(Dịch: Tác giả tổng hợp kinh nghiệm của những người biên soạn các từ điển đồng nghĩa trước đây.)
+
+
+3. В словаре содержится более 13 000 синонимических рядов.
+(Dịch: Trong từ điển chứa hơn 13.000 hàng đồng nghĩa.)
+
+
+4. Словарь адресован писателям, журналистам, переводчикам, филологам широкого профиля.
+(Dịch: Từ điển dành cho các nhà văn, nhà báo, biên dịch viên, nhà ngôn ngữ học có trình độ cao.)
+
+
+5. стремящихся грамотно говорить и образно, ярко и точно выражать свои мысли.
+(Dịch: muốn nói đúng ngữ pháp và diễn đạt ý tưởng một cách hình tượng, rõ ràng và chính xác.)
+
+
+
+
+---
+
+Б.
+
+1. Учебник предназначен для учащихся 8–9 классов общеобразовательных учреждений.
+(Dịch: Sách giáo khoa này dành cho học sinh lớp 8–9 tại các trường phổ thông.)
+
+
+2. Он написан в соответствии с примерной программой дисциплины «Искусство».
+(Dịch: Nó được viết phù hợp với chương trình môn học “Nghệ thuật”.)
+
+
+3. знакомит учащихся с различными видами искусства.
+(Dịch: Giới thiệu học sinh với các loại hình nghệ thuật khác nhau.)
+
+
+4. Он позволяет школьникам приобщиться к художественно-творческой деятельности.
+(Dịch: Nó cho phép học sinh tham gia vào các hoạt động sáng tạo nghệ thuật.)
+
+
+
+
+
