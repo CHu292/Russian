@@ -208,5 +208,282 @@ Dịch sang tiếng Việt:
 
 12. Tác giả đề cập đến các vấn đề xã hội và kinh tế tiềm năng do số hóa và tự động hóa đời sống và sinh hoạt hiện đại gây ra.
 
+---
+
+Nội dung từ hình ảnh:
 
 
+---
+
+Вставьте подходящие по смыслу слова:
+
+Упражнение 4. Обратите внимание на конструкции, используемые при написании аннотации научной статьи и монографии. Вставьте подходящие по смыслу слова.
+
+A.
+
+1. Авторы статьи прежде всего ... внимание на проблемы, существующие в современном русском языке.
+
+
+2. Объектом исследования в статье ... современное состояние русского языка.
+
+
+3. В качестве примера авторы статьи ... высказывания многих современных политических деятелей.
+
+
+4. Особое внимание в работе ... языку как средству формирования мировоззрения.
+
+
+5. В монографии собраны и ... десятки конкретных примеров нарушений норм русского литературного языка.
+
+
+6. Публикация ... студентам отделений и факультетов журналистики, филологам, работникам печати.
+
+
+7. В статье ... проблемы нормы и нарушения языковой нормы.
+
+
+
+
+---
+
+Dịch sang tiếng Việt:
+
+Điền từ phù hợp theo nghĩa vào chỗ trống:
+
+Bài tập 4. Hãy chú ý đến các cấu trúc được sử dụng khi viết tóm tắt bài báo khoa học và chuyên khảo. Điền các từ phù hợp theo nghĩa vào chỗ trống.
+
+A.
+
+1. Các tác giả bài viết trước hết ... sự chú ý vào các vấn đề tồn tại trong tiếng Nga hiện đại.
+
+
+2. Đối tượng nghiên cứu trong bài viết ... tình trạng hiện tại của tiếng Nga.
+
+
+3. Ví dụ được các tác giả bài viết ... là những phát ngôn của nhiều nhân vật chính trị hiện đại.
+
+
+4. Trong công trình này, sự chú ý đặc biệt ... đến tiếng Nga như một phương tiện hình thành thế giới quan.
+
+
+5. Trong chuyên khảo đã thu thập và ... hàng chục ví dụ cụ thể về vi phạm chuẩn mực ngôn ngữ văn học Nga.
+
+
+6. Ấn phẩm ... cho sinh viên các khoa báo chí, ngôn ngữ học, và các nhân viên in ấn.
+
+
+7. Trong bài viết ... các vấn đề về chuẩn mực và vi phạm chuẩn mực ngôn ngữ.
+
+
+---
+
+Dưới đây là các từ được điền phù hợp theo ngữ cảnh:
+
+
+---
+
+1. Авторы статьи прежде всего обращают внимание на проблемы, существующие в современном русском языке.
+(Dịch: Các tác giả bài viết trước hết chú ý đến các vấn đề tồn tại trong tiếng Nga hiện đại.)
+
+
+2. Объектом исследования в статье является современное состояние русского языка.
+(Dịch: Đối tượng nghiên cứu trong bài viết là tình trạng hiện tại của tiếng Nga.)
+
+
+3. В качестве примера авторы статьи приводят высказывания многих современных политических деятелей.
+(Dịch: Ví dụ được các tác giả bài viết đưa ra là những phát ngôn của nhiều nhân vật chính trị hiện đại.)
+
+
+4. Особое внимание в работе уделяется языку как средству формирования мировоззрения.
+(Dịch: Trong công trình này, sự chú ý đặc biệt được dành cho tiếng Nga như một phương tiện hình thành thế giới quan.)
+
+
+5. В монографии собраны и проанализированы десятки конкретных примеров нарушений норм русского литературного языка.
+(Dịch: Trong chuyên khảo đã thu thập và phân tích hàng chục ví dụ cụ thể về vi phạm chuẩn mực ngôn ngữ văn học Nga.)
+
+
+6. Публикация рекомендована студентам отделений и факультетов журналистики, филологам, работникам печати.
+(Dịch: Ấn phẩm được khuyến nghị cho sinh viên các khoa báo chí, ngôn ngữ học, và các nhân viên in ấn.)
+
+
+7. В статье рассматриваются проблемы нормы и нарушения языковой нормы.
+(Dịch: Trong bài viết xem xét các vấn đề về chuẩn mực và vi phạm chuẩn mực ngôn ngữ.)
+
+
+---
+
+Dưới đây là nội dung từ hình ảnh:
+
+
+---
+
+B.
+
+Статья ... влиянию глобальных проблем на различные стороны жизни человека и на решение вопроса о будущем цивилизации. Автор ... такие вопросы, как переселение планеты, исчерпание природных ресурсов и т.д. В статье ... пути и методы решения глобальных проблем мыслителями различных направлений, а также ... новые варианты выхода из сложившейся ситуации.
+
+Слова для справок: предлагается, анализируется, посвящён(а), затрагивать.
+
+
+---
+
+V.
+
+Методические указания (1) студентам, изучающим дисциплину «Русский язык и культура речи» и (2) список рекомендуемой литературы, указания по оформлению контрольных работ, справочные материалы, а также контрольные работы, которые (3) для проверки знаний.
+
+Слова для справок: содержат, предназначен(ы), адресован.
+
+
+---
+
+Dịch sang tiếng Việt:
+
+B.
+
+Bài viết ... về ảnh hưởng của các vấn đề toàn cầu đến các khía cạnh khác nhau trong đời sống con người và giải quyết câu hỏi về tương lai của nền văn minh. Tác giả ... các vấn đề như di cư hành tinh, cạn kiệt tài nguyên thiên nhiên, v.v. Trong bài viết, ... các cách và phương pháp giải quyết vấn đề toàn cầu do các nhà tư tưởng thuộc các hướng khác nhau đưa ra, cũng như ... các phương án mới để thoát khỏi tình huống hiện tại.
+
+Từ gợi ý: được đề xuất, được phân tích, được dành riêng, được nêu.
+
+
+---
+
+V.
+
+Hướng dẫn phương pháp (1) dành cho sinh viên học môn “Tiếng Nga và Văn hóa phát ngôn” và (2) danh sách tài liệu tham khảo, hướng dẫn viết bài kiểm tra, tài liệu tham khảo, cũng như các bài kiểm tra (3) để kiểm tra kiến thức.
+
+Từ gợi ý: chứa, dành cho, được gửi đến.
+
+
+---
+
+Trả lời bài tập:
+
+B.
+
+1. Статья посвящена влиянию глобальных проблем на различные стороны жизни человека и на решение вопроса о будущем цивилизации.
+(Dịch: Bài viết được dành riêng để nghiên cứu ảnh hưởng của các vấn đề toàn cầu đối với đời sống con người và giải quyết vấn đề về tương lai của nền văn minh.)
+
+
+2. Автор затрагивает такие вопросы, как переселение планеты, исчерпание природных ресурсов и т.д.
+(Dịch: Tác giả nêu các vấn đề như di cư hành tinh, cạn kiệt tài nguyên thiên nhiên, v.v.)
+
+
+3. В статье анализируются пути и методы решения глобальных проблем мыслителями различных направлений.
+(Dịch: Trong bài viết, các cách và phương pháp giải quyết các vấn đề toàn cầu được phân tích bởi các nhà tư tưởng thuộc các hướng khác nhau.)
+
+
+4. а также предлагаются новые варианты выхода из сложившейся ситуации.
+(Dịch: cũng như các phương án mới được đề xuất để thoát khỏi tình huống hiện tại.)
+
+
+
+
+---
+
+V.
+
+1. Методические указания адресованы студентам, изучающим дисциплину «Русский язык и культура речи».
+(Dịch: Hướng dẫn phương pháp được gửi đến sinh viên học môn “Tiếng Nga và Văn hóa phát ngôn”.)
+
+
+2. и содержат список рекомендуемой литературы, указания по оформлению контрольных работ, справочные материалы.
+(Dịch: và chứa danh sách tài liệu tham khảo, hướng dẫn viết bài kiểm tra, và các tài liệu tham khảo.)
+
+
+3. а также контрольные работы, которые предназначены для проверки знаний.
+(Dịch: cũng như các bài kiểm tra dành cho việc kiểm tra kiến thức.)
+
+
+
+
+---
+Dưới đây là nội dung từ hình ảnh:
+
+
+---
+
+Г.
+
+В статье (1) актуальные проблемы формирования лесного законодательства России, Франции и Швейцарии. Автор (2) основные положения нового Лесного кодекса Российской Федерации и (3) их с точки зрения их перспективности. В заключение автор (4) к выводу о возможности применения в российском праве правил, закреплённых в законодательствах исследуемых государств.
+
+Слова для справок: затрагиваться, приходить, излагать, анализировать.
+
+
+---
+
+Д.
+
+Статья, которая (1) введением к монографии о нормах русского языка, прежде всего (2) вопросы законодательной поддержки русского языка, также в ней (3) общая лингвокультурологическая ситуация в современном российском обществе.
+В монографии (4) проанализированы десятки конкретных примеров нарушений норм русского литературного языка, допущенных как популярными, маститыми, так и менее известными сотрудниками средств массовой информации — ведущими теле- и радиопрограмм, дикторами, корреспондентами, обозревателями.
+Публикация будет (5) студентам отделений и факультетов журналистики, филологам, работникам печати, радио и телевидения, а также широкому кругу читателей, заботящихся о высоком уровне речевой культуры.
+
+Слова для справок: интересен(а), изложен(ы), являться, анализироваться, затрагивать.
+
+
+---
+
+Dịch sang tiếng Việt:
+
+Г.
+
+Trong bài viết (1) về các vấn đề cấp bách của việc hình thành luật pháp về lâm nghiệp ở Nga, Pháp và Thụy Sĩ. Tác giả (2) các điều khoản chính của Bộ luật Lâm nghiệp mới của Liên bang Nga và (3) chúng từ góc độ tiềm năng của chúng. Cuối cùng, tác giả (4) kết luận về khả năng áp dụng trong luật pháp Nga các quy định đã được thiết lập trong luật pháp của các quốc gia được nghiên cứu.
+
+Từ gợi ý: được nêu, đến, được trình bày, được phân tích.
+
+
+---
+
+Д.
+
+Bài viết, đóng vai trò (1) phần giới thiệu cho chuyên khảo về các chuẩn mực ngôn ngữ Nga, trước hết (2) các vấn đề hỗ trợ luật pháp cho ngôn ngữ Nga, và trong đó (3) tình hình ngôn ngữ văn hóa chung trong xã hội Nga hiện đại.
+Trong chuyên khảo, (4) đã phân tích hàng chục ví dụ cụ thể về các vi phạm chuẩn mực của ngôn ngữ văn học Nga, do các nhân viên truyền thông đại chúng nổi tiếng hoặc ít nổi tiếng thực hiện — như các biên tập viên truyền hình và phát thanh, phát thanh viên, phóng viên, nhà bình luận.
+Ấn phẩm sẽ (5) dành cho sinh viên các khoa báo chí, ngôn ngữ học, nhân viên in ấn, đài phát thanh và truyền hình, cũng như độc giả quan tâm đến mức độ cao của văn hóa phát ngôn.
+
+Từ gợi ý: thú vị, được trình bày, đóng vai trò, được phân tích, đề cập.
+
+
+---
+
+Trả lời bài tập:
+
+Г.
+
+1. В статье затрагиваются актуальные проблемы формирования лесного законодательства России, Франции и Швейцарии.
+(Dịch: Trong bài viết, các vấn đề cấp bách của việc hình thành luật pháp lâm nghiệp ở Nga, Pháp và Thụy Sĩ được đề cập.)
+
+
+2. Автор излагает основные положения нового Лесного кодекса Российской Федерации.
+(Dịch: Tác giả trình bày các điều khoản chính của Bộ luật Lâm nghiệp mới của Liên bang Nga.)
+
+
+3. и анализирует их с точки зрения их перспективности.
+(Dịch: và phân tích chúng từ góc độ tiềm năng của chúng.)
+
+
+4. В заключение автор приходит к выводу о возможности применения в российском праве правил.
+(Dịch: Cuối cùng, tác giả đi đến kết luận về khả năng áp dụng các quy định này vào luật pháp Nga.)
+
+
+
+
+---
+
+Д.
+
+1. Статья, которая является введением к монографии о нормах русского языка.
+(Dịch: Bài viết, đóng vai trò phần giới thiệu cho chuyên khảo về các chuẩn mực ngôn ngữ Nga.)
+
+
+2. прежде всего затрагивает вопросы законодательной поддержки русского языка.
+(Dịch: trước hết, nêu các vấn đề hỗ trợ luật pháp cho ngôn ngữ Nga.)
+
+
+3. также в ней анализируется общая лингвокультурологическая ситуация в современном российском обществе.
+(Dịch: đồng thời trong đó, tình hình ngôn ngữ văn hóa chung trong xã hội Nga hiện đại được phân tích.)
+
+
+4. В монографии изложены десятки конкретных примеров нарушений норм русского литературного языка.
+(Dịch: Trong chuyên khảo, đã trình bày hàng chục ví dụ cụ thể về các vi phạm chuẩn mực ngôn ngữ văn học Nga.)
+
+
+5. Публикация будет интересна студентам отделений и факультетов журналистики, филологам.
+(Dịch: Ấn phẩm này sẽ thú vị đối với sinh viên các khoa báo chí và ngôn ngữ học.)
