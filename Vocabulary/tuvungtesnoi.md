@@ -3,7 +3,8 @@
 | Умное оборудование   | Thiết bị thông minh  | Оборудование, которое оснащено технологиями для автоматизации, контроля и улучшения работы. | Thiết bị được trang bị công nghệ để tự động hóa, giám sát và tối ưu hóa hoạt động. |
 | Быстрое обслуживание пользователей | Dịch vụ nhanh chóng cho người dùng | Обслуживание клиентов, которое осуществляется оперативно и эффективно для экономии времени. | Dịch vụ hỗ trợ người dùng được thực hiện nhanh chóng và hiệu quả để tiết kiệm thời gian. |
 | Экономичность       | Tính kinh tế (trong mạng máy tính) | Способность сети оптимизировать использование ресурсов, таких как трафик, энергия и оборудование. | Khả năng tối ưu hóa việc sử dụng tài nguyên trong mạng như băng thông, năng lượng và thiết bị. |
-
+| Сети провайдеров           | Mạng lưới của nhà cung cấp dịch vụ | Сети, которые предоставляют доступ к интернету и другим услугам связи. | Mạng lưới cung cấp truy cập Internet và các dịch vụ liên lạc khác. |
+| Кабельное телевидение      | Truyền hình cáp               | Система телевещания, которая передаёт сигнал по коаксиальному кабелю. | Hệ thống truyền hình phát sóng tín hiệu thông qua cáp đồng trục.   |
 
 
 
