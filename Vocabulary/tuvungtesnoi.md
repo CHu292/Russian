@@ -10,6 +10,12 @@
 | Масштабируемость                 | Tính mở rộng, khả năng mở rộng     | Свойство системы увеличивать производительность и размер без потери качества. | Khả năng của hệ thống mở rộng hiệu suất và quy mô mà không làm giảm chất lượng. |
 | Охват            | Phạm vi phủ sóng           | Территория или количество пользователей, которые могут быть обслужены сетью или системой. | Khu vực địa lý hoặc số lượng người dùng mà mạng hoặc hệ thống có thể phục vụ. |
 | Эталонную          | Mang tính chuẩn mực, tham chiếu | Образцовый, соответствующий стандарту или служащий основой для сравнения. | Tính chất chuẩn mực, đáp ứng các tiêu chuẩn hoặc làm cơ sở để so sánh. |
+| Зона              | Khu vực, vùng          | Определённая территория или область, выделенная для конкретной цели. | Một khu vực hoặc vùng nhất định, được chỉ định cho mục đích cụ thể. |
+
+
+
+
+
 
 
 
