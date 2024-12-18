@@ -11,6 +11,12 @@
 | Охват            | Phạm vi phủ sóng           | Территория или количество пользователей, которые могут быть обслужены сетью или системой. | Khu vực địa lý hoặc số lượng người dùng mà mạng hoặc hệ thống có thể phục vụ. |
 | Эталонную          | Mang tính chuẩn mực, tham chiếu | Образцовый, соответствующий стандарту или служащий основой для сравнения. | Tính chất chuẩn mực, đáp ứng các tiêu chuẩn hoặc làm cơ sở để so sánh. |
 | Зона              | Khu vực, vùng          | Определённая территория или область, выделенная для конкретной цели. | Một khu vực hoặc vùng nhất định, được chỉ định cho mục đích cụ thể. |
+| Компактность       | Tính nhỏ gọn               | Свойство занимать минимальное пространство при сохранении функциональности. | Khả năng chiếm ít không gian trong khi vẫn đảm bảo đầy đủ chức năng. |
+
+
+
+
+
 
 
 
